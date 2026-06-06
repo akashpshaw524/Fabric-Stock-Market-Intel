@@ -21,6 +21,28 @@ Provide a centralized market intelligence platform capable of:
 
 ---
 
+## Architecture
+
+![Architecture](architecture/Architecture.png)
+
+## Pipeline
+
+![Dashboard](screenshots/Pipeline.png)
+
+## Lakehouse
+
+![Dashboard](screenshots/Lakehouse.png)
+
+## Semantic Model
+
+![Semantic Model](screenshots/Semantic_Model.png)
+
+## Dashboard
+
+![Dashboard](screenshots/Dashboard.png)
+
+---
+
 ## Technology Stack
 
 * Microsoft Fabric
